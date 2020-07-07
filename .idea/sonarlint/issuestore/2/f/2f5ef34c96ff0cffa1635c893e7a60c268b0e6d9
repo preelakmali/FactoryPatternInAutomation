@@ -1,0 +1,7 @@
+
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÈÆ™.
+Xsquid:S1854-":Remove this useless assignment to local variable "driver".(ÅîÚ8çªûİ™.
+nsquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ÔæÈùÿÿÿÿ8¨–÷İ™.
+_squid:S1075"ARefactor your code to get this URI from a customizable parameter.(‡¬†«8¦™Çİ™.
+1squid:S1220""Move this file to a named package.
+Isquid:S1481-"+Remove this unused "driver" local variable.(ÅîÚ8çªûİ™.

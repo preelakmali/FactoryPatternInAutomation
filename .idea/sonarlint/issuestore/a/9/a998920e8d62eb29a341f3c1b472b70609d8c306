@@ -1,0 +1,10 @@
+
+1squid:S1220""Move this file to a named package.
+^squid:S1075"ARefactor your code to get this URI from a customizable parameter.(ð´„B8ÑÃ×á®.
+nsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(¾¤¥ ÿÿÿÿÿ8ÑÃ×á®.
+isquid:CommentedOutCodeLine7"<This block of commented-out lines of code should be removed.(ÿÞ“Ô8ÑÃ×á®.
+nsquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(ÆäÑ„úÿÿÿÿ8ÑÃ×á®.
+Xsquid:S18542":Remove this useless assignment to local variable "driver".(ž†œ®8ÑÃ×á®.
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(ßÍçõþÿÿÿÿ8ÑÃ×á®.
+Isquid:S14812"+Remove this unused "driver" local variable.(ž†œ®8ÑÃ×á®.
